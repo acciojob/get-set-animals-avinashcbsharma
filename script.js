@@ -9,9 +9,8 @@ class Animal {
             }
 
             makeSound(){
-                console.log("The Siamese makes a sound");
+                console.log(`The ${this._species} makes a sound`);
             }
-
 }
 
 class Dog extends Animal {
