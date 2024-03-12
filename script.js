@@ -9,7 +9,7 @@ class Animal {
             }
 
             makeSound(){
-                console.log("Generi Sound");
+                console.log("The Siamese makes a sound");
             }
 
 }
